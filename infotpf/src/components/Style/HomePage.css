@@ -1,0 +1,23 @@
+.home-page {
+    text-align: center;
+  }
+  
+  .banner-section {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  .home-page-title {
+    color: #333;
+  }
+  
+  .home-page-banner {
+    max-width: 100%;
+    height: auto;
+    margin: 10px auto;
+  }
+  
+  .content-section {
+    margin-top: 20px;
+  }
+  
